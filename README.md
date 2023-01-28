@@ -1,5 +1,4 @@
 # Qualitative-Analysis
-Qualitative-Analysis
 
 ##  Why VQA model without causal reasoning tends to learn spurious correlations
 ![Image](Fig1.png)
